@@ -63,7 +63,7 @@
 
     aptos genesis generate-genesis --local-repository-dir ~/$WORKSPACE --output-dir ~/$WORKSPACE
     
-**Step 9: Check whether the below files are in your working directory
+**Step 9: Check whether the below files are in your working directory**
     
     ls -l
     total 116
