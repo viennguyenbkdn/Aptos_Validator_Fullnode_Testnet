@@ -1,4 +1,4 @@
-# Aptos_Setup_node
+# Aptos_Validator and Fullnode
 **# The guide is made based on document of Aptos team. I just customize clearly for setting up fullnode and validator node on same machine**
 **# The guide is used for Docker only**
 
